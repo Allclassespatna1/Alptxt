@@ -1,11 +1,11 @@
 
 {
 
-    "name": "Unkniwntxt",
+    "name": "Allclassespatna",
 
     "description": "Download videos from various websites using this telegram bot",
 
-    "repository": "https://github.com/devansh-op/txt-v2",
+    "repository": "https://github.com/Allclassespatna1/Alptxt",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
